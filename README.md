@@ -90,6 +90,7 @@ This application includes automatically generated API documentation:
 
 ## Project Structure
 
+    ```bash
 fastapi_app/
 ├── app/
 │ ├── init.py
@@ -109,5 +110,6 @@ fastapi_app/
 ├── .env
 ├── requirements.txt
 └── README.md
+    ```
 
 
