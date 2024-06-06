@@ -90,26 +90,26 @@ This application includes automatically generated API documentation:
 
 ## Project Structure
 
-    ```bash
-fastapi_app/
-├── app/
-│ ├── init.py
-│ ├── main.py
-│ ├── models.py
-│ ├── schemas.py
-│ ├── crud.py
-│ ├── auth.py
-│ ├── cache.py
-│ ├── dependencies.py
-│ └── routers/
-│ ├── init.py
-│ ├── auth.py
-│ └── posts.py
-├── migrations/
-│ └── ... (Alembic migration files)
-├── .env
-├── requirements.txt
-└── README.md
-    ```
+  ```bash
+    fastapi_app/
+    ├── app/
+    │ ├── init.py
+    │ ├── main.py
+    │ ├── models.py
+    │ ├── schemas.py
+    │ ├── crud.py
+    │ ├── auth.py
+    │ ├── cache.py
+    │ ├── dependencies.py
+    │ └── routers/
+    │ ├── init.py
+    │ ├── auth.py
+    │ └── posts.py
+    ├── migrations/
+    │ └── ... (Alembic migration files)
+    ├── .env
+    ├── requirements.txt
+    └── README.md
+  ```
 
 
